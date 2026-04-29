@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-32yj3k.cathey.us/sitemap.xml
